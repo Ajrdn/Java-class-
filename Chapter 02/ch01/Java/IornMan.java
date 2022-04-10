@@ -4,6 +4,6 @@ public class IornMan {
 	int markNumber;
 	
 	public void fly() {
-		System.out.println("¾ÆÀÌ¾ğ¸ÇÀÌ ³¯¾Æ°©´Ï´Ù.");
+		System.out.println("ì•„ì´ì–¸ë§¨ì´ ë‚ ì•„ê°‘ë‹ˆë‹¤.");
 	}
 }
