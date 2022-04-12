@@ -6,10 +6,10 @@ public class Student {
 	String address;
 	
 	public void showStudentInfo() {
-		System.out.println("ÇĞ»ıÁ¤º¸");
+		System.out.println("í•™ìƒì •ë³´");
 	}
 	
 	public void showStudentName() {
-		System.out.println("ÇĞ»ıÀÌ¸§");
+		System.out.println("í•™ìƒì´ë¦„");
 	}
 }
