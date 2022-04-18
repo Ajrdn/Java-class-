@@ -6,7 +6,7 @@ public class PersonTest {
 	int age;
 	
 	public PersonTest() {
-		this("ÀÌ¸§¾øÀ½", 999);
+		this("ì´ë¦„ì—†ìŒ", 999);
 	}
 	
 	public PersonTest(String naem, int age) {
