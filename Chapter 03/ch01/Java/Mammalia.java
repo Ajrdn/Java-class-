@@ -6,6 +6,6 @@ public class Mammalia {
 	protected String address;
 	
 	public void walk(String leg) {
-		System.out.println(name + "ÀÌ " + leg +"·Î °È°í ÀÖÀ½");
+		System.out.println(name + "ì´ " + leg +"ë¡œ ê±·ê³  ìˆìŒ");
 	}
 }
