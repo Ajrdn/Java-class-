@@ -7,8 +7,8 @@ public class AnimalTest {
 		Person p1 = new Person("choi");
 		Tiger t1 = new Tiger("bat");
 		
-		p1.walk("µÎ ¹ß");
-		t1.walk("³× ¹ß");
+		p1.walk("ë‘ ë°œ");
+		t1.walk("ë„¤ ë°œ");
 		
 		p1.drive();
 		t1.hunt();
