@@ -4,7 +4,7 @@ public class Eagle extends Animal{
 
    @Override
    public void move() {
-      System.out.println("³¯¾Æ´Ù´Ï°í ÀÖ½À´Ï´Ù.");
+      System.out.println("ë‚ ì•„ë‹¤ë‹ˆê³  ìžˆìŠµë‹ˆë‹¤.");
    }
    
 }
