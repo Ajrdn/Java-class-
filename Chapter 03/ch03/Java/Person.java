@@ -4,7 +4,7 @@ public class Person extends Animal {
 
    @Override
    public void move() {
-      System.out.println("�ι߷� �ɾ�ٴѴ�.");
+      System.out.println("두발로 걸어다닌다.");
    }
 
 }
