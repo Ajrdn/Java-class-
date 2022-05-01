@@ -40,7 +40,7 @@ public class MyLinkedList {
 		}
 		
 		else if (position < 0 || position > count) {
-			System.out.println("position °ª Æ²¸²");
+			System.out.println("position ê°’ í‹€ë¦¼");
 		}
 		
 		else {
@@ -61,7 +61,7 @@ public class MyLinkedList {
 		MyListNode pre = null;
 		
 		if (position < 0 || position > count) {
-			System.out.println("position °ª Æ²¸²");
+			System.out.println("position ê°’ í‹€ë¦¼");
 			return null;
 		}
 		
