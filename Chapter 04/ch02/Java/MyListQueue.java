@@ -30,7 +30,7 @@ public class MyListQueue extends MyLinkedList implements IQueue{
 
 	public String deQueue() {
 		if(isEmpty()) {
-			System.out.println("ÇöÀç Å¥°¡ ºñ¾îÀÖ½À´Ï´Ù.");
+			System.out.println("í˜„ì¬ íê°€ ë¹„ì–´ìˆìŠµë‹ˆë‹¤.");
 			return null;
 		}
 		
