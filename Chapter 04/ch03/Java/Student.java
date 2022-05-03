@@ -11,7 +11,7 @@ public class Student {
 	}
 	
 	public void showInfo() {
-		System.out.println("ÇĞ¹ø : " + number + ", ÀÌ¸§ : " + name);
+		System.out.println("í•™ë²ˆ : " + number + ", ì´ë¦„ : " + name)
 	}
 	
 	public int getNumber() {
