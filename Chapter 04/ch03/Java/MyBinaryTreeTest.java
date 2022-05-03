@@ -6,12 +6,12 @@ public class MyBinaryTreeTest {
 		
 		MyBinaryTree bTree = new MyBinaryTree();
 		
-		bTree.addElement(new Student(10, "±ÔÁø"));
-		bTree.addElement(new Student(5, "¼¼ÈÆ"));
-		bTree.addElement(new Student(1, "¼º¼ö"));
-		bTree.addElement(new Student(7, "±×..."));
-		bTree.addElement(new Student(12, "¹Î¼®"));
-		bTree.addElement(new Student(14, "¾Ö¶õ"));
+		bTree.addElement(new Student(10, "A"));
+		bTree.addElement(new Student(5, "B"));
+		bTree.addElement(new Student(1, "C"));
+		bTree.addElement(new Student(7, "D"));
+		bTree.addElement(new Student(12, "E"));
+		bTree.addElement(new Student(14, "F"));
 		
 		bTree.preOrder(bTree.getRoot());
 	}
